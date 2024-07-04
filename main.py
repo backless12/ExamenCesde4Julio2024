@@ -1,0 +1,1 @@
+from analysis.analisis_tipo_producto import *
